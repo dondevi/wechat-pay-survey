@@ -20,8 +20,8 @@
 
 ## Plan
 
-0.1.0 Proved  H5 pay without JSSDK
-0.2.0 Emulate different Wechat offical account
-0.3.0 Linkage different OpenID by UnionID
-0.4.0 Proved  H5 pay in another offical account
-0.5.0 Implete Qrcode pay
+- 0.1.0 Proved  H5 pay without JSSDK
+- 0.2.0 Emulate different Wechat offical account
+- 0.3.0 Linkage different OpenID by UnionID
+- 0.4.0 Proved  H5 pay in another offical account
+- 0.5.0 Implete Qrcode pay
