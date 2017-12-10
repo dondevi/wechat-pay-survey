@@ -1,0 +1,20 @@
+{
+  "name": "wechat-pay-survey",
+  "author": "dondevi",
+  "version": "0.1.0",
+  "license": "MIT",
+  "private": true,
+  "description": "Wechat Pay Survey.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dondevi/wechat-pay-survey.git"
+  },
+  "keywords": [],
+  "scripts": {
+    "init": "npm link vue & npm link vue-router & npm link mint-ui & npm link normalize.css & npm link axios",
+    "dev": "cooking watch -p",
+    "dist": "cooking build -p"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

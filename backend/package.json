@@ -1,0 +1,19 @@
+{
+  "name": "wechat-dev-server",
+  "version": "0.1.0",
+  "engines" : { "node" : "6.11.0" },
+  "description": "",
+  "author": "dondevi",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "xml": "1.0.1",
+    "axios": "0.16.2",
+    "cache": "1.1.2",
+    "log4js": "2.3.3",
+    "xml2js": "0.4.19",
+    "express-session": "1.15.5"
+  },
+  "license": "ISC"
+}
